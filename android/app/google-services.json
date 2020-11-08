@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "117350114766",
+      "firebase_url": "https://flawless-earth-283000.firebaseio.com",
+      "project_id": "flawless-earth-283000",
+      "storage_bucket": "flawless-earth-283000.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:117350114766:android:08133afbde74c574da379f",
+          "android_client_info": {
+            "package_name": "com.example.chat_online_firebase"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "117350114766-eulor751t4chgjo0lacckabvf4m3f440.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.chat_online_firebase",
+              "certificate_hash": "56ed85362e9f0a69b6033a7fe3d3a4f592d1be2c"
+            }
+          },
+          {
+            "client_id": "117350114766-voir76b6205g764jlclipvsi06ehk6pv.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBCOGPyuU9J41ETzEB71PhCQYw9HrkmXpY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "117350114766-voir76b6205g764jlclipvsi06ehk6pv.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
