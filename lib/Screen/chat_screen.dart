@@ -1,3 +1,4 @@
+import 'package:chat_online_firebase/tools/chat_message.dart';
 import 'package:chat_online_firebase/tools/text_composer.dart';
 import 'package:flutter/material.dart';
 
@@ -21,6 +22,16 @@ class _ChatScreenState extends State<ChatScreen> {
         ),
         body: Column(
           children: [
+            Expanded(
+              child: ListView(
+                children: [
+                  ChatMessage(),
+                ],
+              ),
+            ),
+            Divider(
+              height: 1.0,
+            ),
             Container(
               decoration: BoxDecoration(
                 color: Theme.of(context).cardColor,
@@ -32,7 +43,4 @@ class _ChatScreenState extends State<ChatScreen> {
       ),
     );
   }
-
-
-  
 }
